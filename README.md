@@ -1,8 +1,6 @@
 ### It's time to code 💻
 
-- ⭐ Currently based in 🇧🇷
-- 👓 Frequently studying JAM Stack 📖
-- ✈️ Working in a Canadian Dream 🍁
+ ⭐ Currently based in 🇧🇷 <br> 👓 Frequently studying JAM Stack 📖 <br> ✈️ Working in a Canadian Dream 🍁 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
