@@ -6,9 +6,11 @@
   <a href="https://github.com/victorbraga8">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=victorbraga8&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide=prs,stars&"/>
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbraga8&layout=default&langs_count=3&theme=slateorange"/>
+   </a>
 </div>
   
 <div style="display: inline_block"><br>
+ <a href="https://victorbraga.com.br" target="_blank">
   <img align="center" alt="VictorBraga-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">    
   <img align="center" alt="VictorBraga-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="VictorBraga-PHP" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
@@ -17,6 +19,7 @@
   <img align="center" alt="VictorBraga-MYSQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
    
   <img align="right" alt="VictorBraga" height="150" style="border-radius:50px;" src="https://victorbraga.com.br/img/LOGO-AFTER.png?width=676&height=676">
+ </a>
 </div>  
 
   ##
