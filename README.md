@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=victorbraga8&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide=prs,stars&"/>
+  <img height="180em" width="auto"  src="https://github-readme-stats.vercel.app/api?username=victorbraga8&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide=prs,stars&"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbraga8&layout=default&langs_count=3&theme=slateorange"/>
 </div>
   
