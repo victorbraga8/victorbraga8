@@ -1,7 +1,6 @@
 ### It's time to code 💻
 
- ⭐ Currently based in 🇧🇷 <br> 👓 Frequently studying JAM Stack 📖 <br> ✈️ Working in a Canadian Dream 🍁 
-
+ ⭐ Currently based in 🇧🇷 <br> 👓 Frequently studying JAM Stack 📖 <br> 
 <div align="center">
   <a href="https://github.com/victorbraga8">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=victorbraga8&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide=prs,stars&"/>
