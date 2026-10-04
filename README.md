@@ -11,7 +11,7 @@
   <img align="center" alt="VictorBraga-Node" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="VictorBraga-MYSQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
    
-  <img align="right" alt="VictorBraga" height="150" style="border-radius:50px;" src="https://victorbraga.com.br/img/LOGO-AFTER.png?width=676&height=676">
+ 
  </a>
 </div>  
 
