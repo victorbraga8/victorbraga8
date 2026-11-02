@@ -22,6 +22,12 @@
   <a href = "mailto:contato@victorbraga.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-braga-2a204a23" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-</div>  
-  
-  
+</div>
+
+---
+
+### Atividade Profissional
+
+![Estatísticas profissionais](https://github-readme-stats.vercel.app/api?username=montreal-ventures&show_icons=true&hide_border=true&theme=transparent&custom_title=Atividade%20Profissional)
+
+![Histórico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=montreal-ventures&custom_title=Historico%20de%20Contribuicoes&theme=github-compact&hide_border=true)
