@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="626" viewBox="0 0 960 626" role="img" aria-labelledby="grafico-title grafico-desc">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="572" viewBox="0 0 960 572" font-family="Arial, Helvetica, sans-serif" role="img" aria-labelledby="grafico-title grafico-desc">
 <title id="grafico-title">Atividade profissional: 3.351 commits em 9 projetos</title>
-<desc id="grafico-desc">Distribuição estática de 3.351 commits entre sete frentes de atuação no período de 01/11/2025 a 01/11/2026.</desc>
+<desc id="grafico-desc">Distribuição de 3.351 commits em sete frentes de atuação de nove projetos.</desc>
 <defs>
 <linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#172b45"/><stop offset="1" stop-color="#111b2a"/></linearGradient>
 <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
 </defs>
-<rect x="1" y="1" width="958" height="624" rx="22" fill="#0d1117" stroke="#35435a" stroke-width="2"/>
+<rect x="1" y="1" width="958" height="570" rx="22" fill="#0d1117" stroke="#35435a" stroke-width="2"/>
 <rect x="24" y="24" width="912" height="166" rx="15" fill="url(#top)"/>
 <rect x="52" y="49" width="6" height="18" rx="3" fill="url(#accent)"/>
 <text x="71" y="63" fill="#9cbbdc" font-size="14" font-weight="700" letter-spacing="2">ATIVIDADE PROFISSIONAL</text>
 <text x="50" y="145" fill="#f5f9ff" font-size="73" font-weight="800" letter-spacing="-2">3.351</text>
-<text x="284" y="139" fill="#b6c7dc" font-size="20">commits</text>
+<text x="52" y="172" fill="#afc4d9" font-size="15">commits</text>
 <path d="M695 57 V158" stroke="#34475d"/>
 <text x="726" y="103" fill="#f5f9ff" font-size="38" font-weight="750">9</text>
 <text x="726" y="131" fill="#afc4d9" font-size="15">projetos</text>
@@ -45,6 +45,4 @@
 <rect x="297" y="512" width="489" height="16" rx="8" fill="#263347"/>
 <rect x="297" y="512" width="8" height="16" rx="8" fill="#a3e635"/>
 <text x="905" y="525" text-anchor="end" fill="#eff6ff" font-size="16" font-weight="650">7</text>
-<path d="M52 574 H908" stroke="#34445a"/>
-<text x="52" y="600" fill="#8fa6bf" font-size="14">Recorte: 01/11/2025 a 01/11/2026  |  Snapshot estático</text>
 </svg>
