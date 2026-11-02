@@ -23,11 +23,12 @@
   <a href="https://www.linkedin.com/in/victor-braga-2a204a23" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
 ---
 
 ### Atividade Profissional
 
-![Estatísticas profissionais](https://github-readme-stats.vercel.app/api?username=montreal-ventures&show_icons=true&hide_border=true&theme=transparent&custom_title=Atividade%20Profissional)
+#### 3.351 commits
 
-![Histórico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=montreal-ventures&custom_title=Historico%20de%20Contribuicoes&theme=github-compact&hide_border=true)
+Atividade em projetos profissionais nos últimos 12 meses.
+
+<sub>Período: 01/11/2025 a 01/11/2026. Contagem estática de commits atribuídos à conta profissional nas branches padrão dos repositórios analisados. Não inclui PRs, issues ou commits feitos com outras contas.</sub>
