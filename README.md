@@ -38,9 +38,7 @@ Transformo discovery, arquitetura e contexto de negócio em soluções digitais 
 
 ## Atividade Profissional
 
-![Painel estático com 3.351 commits profissionais, nove projetos e distribuição por frente de atuação](./assets/atividade-profissional.svg)
-
-<sub>Dados consolidados de 01/11/2025 a 01/11/2026. Snapshot estático de commits atribuídos à conta profissional nas branches padrão dos nove repositórios analisados. A métrica não equivale ao calendário nativo de contribuições do GitHub e não inclui issues, PRs ou commits feitos com outras contas.</sub>
+![Painel de atividade profissional com 3.351 commits em 9 projetos, distribuídos por frente de atuação](./assets/atividade-profissional.svg)
 
 ## Projetos públicos em destaque
 
